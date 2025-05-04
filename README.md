@@ -1,1 +1,4 @@
-# CC
+
+print('hello')
+print('te')
+
